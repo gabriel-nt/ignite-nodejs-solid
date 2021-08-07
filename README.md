@@ -53,7 +53,7 @@ $ yarn dev ou npm run dev
 # Execute os testes
 $ yarn test
 
-# Acessar doc
+# Acessar a doc
 * http://localhost:3333/api-docs
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
