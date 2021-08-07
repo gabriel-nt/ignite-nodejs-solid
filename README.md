@@ -1,7 +1,7 @@
 <h1 align="center">
     🚀 Ignite - NodeJS
 </h1>
-<p align="center">Desafio com SOLID</p>
+<p align="center">Desafio com SOLID e Swagger</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/node-14.15.4-green"/>
