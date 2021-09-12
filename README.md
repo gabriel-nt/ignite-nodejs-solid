@@ -65,7 +65,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NodeJS
 - Express
-- Nodemon
+- TS
 - Jest
 - Swagger
 
